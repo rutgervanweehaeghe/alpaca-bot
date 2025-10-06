@@ -10,7 +10,7 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpacabot_1.png)
 
 --------------
-1. open up the python file :
+1. open up the python file :![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpaca.png)
 
 2. Make sure the Python is installed and that the correct dependancies are installed
 
@@ -28,8 +28,6 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 9. Type py 'alp_tradingbot.py' in cmd while in the project folder
 
 10. open positions or orders can be seen on the alpaca website or app
-
-![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpaca.png)
 
 
 
