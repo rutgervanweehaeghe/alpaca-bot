@@ -2,7 +2,7 @@
 This is a python bot, which can pull market data and place transactions via Alpaca, meant for developpers as a starting template for trading bots.
 
 Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to Alpaca, this is 3rd party software)
-
+--------------------
 # How to run 
 
 
@@ -26,7 +26,8 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 8. Run using cmd
 9. Type py 'alp_tradingbot.py' in the project folder 
 
-# ! Note how the code runs paper money for now, this can be adjusted in 'BASE_URL' but make sure you know the difference between 'paper' and 'live' (fake money vs real money)
+### ! Note how the code runs paper money for now, this can be adjusted in 'BASE_URL' but make sure you know the difference between 'paper' and 'live' (fake money vs real money)
+----------------
 
 # Disclaimer
 
