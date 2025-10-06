@@ -10,7 +10,7 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpacabot_1.png)
 
 --------------
-<img src="(https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpaca.png)" align="right" />
+
 1. open up the python file :
 
 2. Make sure the Python is installed and that the correct dependancies are installed
