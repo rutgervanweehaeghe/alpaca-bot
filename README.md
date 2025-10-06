@@ -39,12 +39,6 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 
     
 
-
-
-
-
-
-
 ### ! Note how the code runs paper money for now, this can be adjusted in 'BASE_URL' but make sure you know the difference between 'paper' and 'live' (fake money vs real money)
 
 
