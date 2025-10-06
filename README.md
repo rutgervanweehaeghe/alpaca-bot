@@ -31,8 +31,10 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 9. Type py 'alp_tradingbot.py' in cmd while in the project folder
 
 10. open positions or orders can be seen on the alpaca website or app
-
+<br>
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpaca.png)
+<br>
+<br>
     
 
 
