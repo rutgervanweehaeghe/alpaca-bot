@@ -8,6 +8,7 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 
 
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpacabot_1.png)
+![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpaca.png)
 
 --------------
 
@@ -32,7 +33,7 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
     
 
 
-![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpaca.png)
+
 
 
 
