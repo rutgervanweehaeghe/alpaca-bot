@@ -24,8 +24,8 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 
 7. Adjust the trade logic to your liking
 
-8. Run using cmd
-9. Type py 'alp_tradingbot.py' in the project folder 
+8. Open cmd
+9. Type py 'alp_tradingbot.py' in cmd while in the project folder 
 
 ### ! Note how the code runs paper money for now, this can be adjusted in 'BASE_URL' but make sure you know the difference between 'paper' and 'live' (fake money vs real money)
 
