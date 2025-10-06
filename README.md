@@ -5,8 +5,12 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 (no affiliation to
 
 ## How to run 
 
-1. open up the python file :
+
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/alpaca-bot/blob/main/alpacabot_1.png)
+
+
+1. open up the python file :
+
 
 2. Insert your public and private Alpaca API Keys
 
